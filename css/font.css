@@ -1,0 +1,7 @@
+th, td, h2, h3, .text, .title{
+        font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 20;
+        font-style: normal;
+        font-variation-settings: "wdth" 100;
+}

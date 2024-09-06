@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    justify-content:space-evenly;
+    text-align: left;
+    background-color: slategrey;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 50%;
+}

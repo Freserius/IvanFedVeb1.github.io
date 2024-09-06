@@ -1,0 +1,10 @@
+table{
+    margin-bottom: 40px;
+    text-align: center;
+    border: 3px solid;
+    font-size: large;
+}
+div.table_place{
+    display: flex;
+    justify-content: center;
+}
